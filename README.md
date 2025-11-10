@@ -1,18 +1,25 @@
-<!--
-  Consolidated README for RaipurOne
-  - Combines notes from App/RaipurOne/* and Dashboard/R1_final/*
-  - Keep this concise and link to deeper docs in the repo
--->
+<a href="https://youtu.be/C8od_qO4BTY">
+<div align="center"> <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/dashboard.png"/>
+</a>
+  
+# RaipurOne
 
-# RaipurOne — Smart Municipal Services (Mobile + Bot Backend)
-
-Badges: [React Native] [Expo] [Supabase]
-
-Short overview
---------------
 RaipurOne is a civic platform that combines a React Native (Expo) mobile app for citizens to submit complaints (text, images, location) with backend services (bot-backend) that integrate with Supabase for storage/DB, Twilio (WhatsApp) and Telegram bots, and an AI pipeline for routing and safety analysis.
 
 This repository contains the mobile app, bot backend, SQL schemas, and documentation used for development and deployment.
+
+## Screenshots    
+ <p align="center">          
+ <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/splash.png" width="200" />          
+  <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/login.png" width="200" />          
+   <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/main.png" width="200" />          
+   <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/complant.png" width="200" /> </p> <p align="center">          
+ <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/safeornot.png" width="200" />          
+  <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/aqi.png" width="200" />          
+   <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/location.png" width="200" />          
+   <img src="https://github.com/Vaibhav9526/RaipurOne/blob/main/Readme%20files/timer.png" width="200" /> </p> <p align="center">        
+</p>
+
 
 Quick links
 -----------
@@ -147,4 +154,5 @@ No license file included. Add `LICENSE` if you plan to open-source.
 
 ---
 Last updated: 2025-11-09
+
 
