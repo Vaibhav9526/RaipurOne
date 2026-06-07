@@ -4,7 +4,7 @@
   
 # RaipurOne
 
-RaipurOne is a civic platform that combines a React Native (Expo) mobile app for citizens to submit complaints (text, images, location) with backend services (bot-backend) that integrate with Supabase for storage/DB, Twilio (WhatsApp) and Telegram bots, and an AI pipeline for routing and safety analysis.
+RaipurOne is a civic platform that combines a React Native (Expo) mobile app for citizens to submit complaints (text, images, location) with backend services (bot-backend) that integrate with Supabase for storage/DB, Twilio (WhatsApp)<Since the twilio has stoppedm, we need to add watsapp 's own api/whatsapp buisness api> and Telegram bots, and an AI pipeline for routing and safety analysis.
 
 This repository contains the mobile app, bot backend, SQL schemas, and documentation used for development and deployment.
 
